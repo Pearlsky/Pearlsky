@@ -1,18 +1,12 @@
 ### Hi there 👋, I'm Pearl
 
-<!--
-**Pearlsky/Pearlsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Linkedin Badge](https://img.shields.io/badge/-pearlsky-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pearlsky) ![Twitter Badge](https://img.shields.io/badge/-godaffected-1ca0f1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.twitter.com/godaffected) ![SmashingMag Badge](https://img.shields.io/badge/-Pearl%20Akpan-d33a2c?style=for-the-badge&logo=Smashing%20magazine&logoColor=white&link=https://www.twitter.com/godaffected)
 
-Here are some ideas to get you started:-->
-[![Linkedin Badge](https://img.shields.io/badge/-pearlsky-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pearlsky)] [![Twitter Badge](https://img.shields.io/badge/-godaffected-1ca0f1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.twitter.com/godaffected)] [![SmashingMag Badge](https://img.shields.io/badge/-Pearl%20Akpan-d33a2c?style=for-the-badge&logo=Smashing%20magazine&logoColor=white&link=https://www.twitter.com/godaffected))]
+A front-end developer with a genuine interest in technology and its problem-solving prospects. I'm driven by my desire to leverage web technologies in building worthy solutions for the African ecosystem and beyond.
 
-A front-end developer with a genuine interest in technology and its problem-solving prospects. With an academic background in law and a budding career in front-end development, Pearl seeks to  leverage web technologies in building worthy solutions for the African ecosystem and beyond.
 
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning Javascript, React, VueJS & Typescript
 - 😊 I’m looking for opportunities to get started with open source projects.
 - ⚡ Fun fact: I'm currently a student of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) and I have a Bachelor's Degree in Law
 - 📫 You can [view my resume](https://www.canva.com/design/DAFHsNkcuLs/23Cuh073KgSHXyazhMOLeQ/view?utm_content=DAFHsNkcuLs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) and contact me via: pearlyakpan@gmail.com
-
-
-
