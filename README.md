@@ -4,6 +4,9 @@
 **Pearlsky/Pearlsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+[![Linkedin Badge](https://img.shields.io/badge/-pearlsky-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pearlsky)] [![Twitter Badge](https://img.shields.io/badge/-godaffected-1ca0f1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.twitter.com/godaffected)] [![SmashingMag Badge](https://img.shields.io/badge/-Pearl%20Akpan-d33a2c?style=for-the-badge&logo=Smashing%20magazine&logoColor=white&link=https://www.twitter.com/godaffected))]
+
+A front-end developer with a genuine interest in technology and its problem-solving prospects. With an academic background in law and a budding career in front-end development, Pearl seeks to  leverage web technologies in building worthy solutions for the African ecosystem and beyond.
 
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning Javascript, React, VueJS & Typescript
