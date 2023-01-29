@@ -7,6 +7,7 @@ A front-end developer with a genuine interest in technology and its problem-solv
 
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning Javascript, React, VueJS & Typescript
-- 😊 I’m looking for opportunities to get started with open source projects.
+- 😊 I’m looking for opportunities in open source, internships and full-time roles.
+- 💼 Job interests: Frontend Engineer, UI Engineer (Intern or Junior).
 - ⚡ Fun fact: I have a Bachelor's Degree in Law from Afe Babalola University
 - 📫 You can [view my resume](https://www.canva.com/design/DAFHsNkcuLs/23Cuh073KgSHXyazhMOLeQ/view?utm_content=DAFHsNkcuLs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) and contact me via: pearlyakpan@gmail.com
