@@ -6,7 +6,7 @@ A front-end developer with a genuine interest in technology and its problem-solv
 
 
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning Javascript, React, VueJS & Typescript
+- 🌱 I’m currently learning Javascript & Typescript
 - 😊 I’m looking for opportunities in open source, internships and full-time roles.
 - 💼 Job interests: Frontend Engineer, UI Engineer (Intern or Junior).
 - ⚡ Fun fact: I have a Bachelor's Degree in Law
